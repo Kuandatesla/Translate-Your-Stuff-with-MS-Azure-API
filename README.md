@@ -1,4 +1,4 @@
-# Translate-Your-Stuff-with-Your-API
+# Translate-Your-Stuff-with-MS-Azure-Translate-API
 This notebook was coded and deployed using Microsoft Azure API. You can use it to translate text to the languages offered in Microsoft Azure Translate API.
 
 Prerequisites
